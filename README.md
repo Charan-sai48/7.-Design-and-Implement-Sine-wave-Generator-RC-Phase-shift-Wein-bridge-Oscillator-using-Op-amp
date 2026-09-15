@@ -78,14 +78,17 @@ Rf = 15K *2=30KΩ
   <img width="392" height="180" alt="image" src="https://github.com/user-attachments/assets/eb1f2720-9fbc-492d-b9f2-e339a9e8d1dd" />
 
 
-
-
   **TABULATION:**
 
+  
+<img width="460" height="802" alt="image" src="https://github.com/user-attachments/assets/d9bf010a-7670-4863-a705-6eb66b996aaa" />
+
+<img width="463" height="810" alt="image" src="https://github.com/user-attachments/assets/e0d832a1-ea04-44cc-b124-ad87740a7a80" />
 
 
 **Graph**
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 12 00 12 PM" src="https://github.com/user-attachments/assets/3f8e3847-d5cc-4cb5-bc19-d974bd5ce223" />
 
 
 
